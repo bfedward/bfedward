@@ -35,8 +35,6 @@
 
 <hr/>
 
-<h2 align="center">About me 🦀</h2>
-
 <p align="center"><b>Timezone: Europe/London (GMT/BST)</b></p>
 
 I'm an experienced software engineer with a background in building and maintaining business-critical applications. My professional experience includes enterprise Java development, backend architecture, REST API design and technical leadership.
@@ -52,10 +50,8 @@ I'm an experienced software engineer with a background in building and maintaini
 
 <hr/>
 
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+<h2 align="center">Languages, Frameworks & Tools</h2>
 <br/>
-
-## ⚒️ Languages, Frameworks & Tools ⚒️
 
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,java,cs" />
