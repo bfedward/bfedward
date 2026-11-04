@@ -37,10 +37,10 @@
 
 <p align="center"><b>Timezone: Europe/London (GMT/BST)</b></p>
 
-I'm an experienced software engineer with a background in building and maintaining business-critical applications. My professional experience includes enterprise Java development, backend architecture, REST API design and technical leadership.
+I'm an experienced software engineer with a background in building and maintaining business critical applications. My professional experience includes enterprise Java development, backend architecture, REST API design and technical leadership.
 
 🔸 **Currently learning:** Rust, with a focus on backend development, async programming and systems engineering.<br/>
-🔸 **Building:** Derbe — an employee leave management application built with Rust.<br/>
+🔸 **Building:** Derbe: an employee leave management application built with Rust.<br/>
 🔸 **Exploring:** Programming language implementation through lolcoders, a LOLCODE interpreter written in Rust.<br/>
 🔸 **Professional experience:** 12 years developing enterprise software across Java, Spring Boot and .NET.<br/>
 🔸 **Technical leadership:** Mentoring developers, conducting PR reviews, influencing architectural decisions and leading engineering projects.<br/>
@@ -54,13 +54,11 @@ I'm an experienced software engineer with a background in building and maintaini
 <br/>
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,java,cs" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,yew,wasm" />
   <br/><br/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,hibernate,maven,dotnet,graphql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,cs,spring,hibernate,maven,dotnet,graphql" />
   <br/><br/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,sqlite" />
-  <br/><br/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=yew,wasm" />
   <br/><br/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker" />
   <br/><br/>
